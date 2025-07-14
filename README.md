@@ -1,8 +1,8 @@
-\# 📚 Portofolio Pemrograman Web
+# 📚 Portofolio Pemrograman Web
 
 
 
-Repositori ini berisi kumpulan tugas praktikum mata kuliah \*\*Pemrograman Web\*\* dari Modul 1 sampai Modul 7.
+Repositori ini berisi kumpulan tugas praktikum mata kuliah **Pemrograman Web** dari Modul 1 sampai Modul 7.
 
 
 
@@ -14,21 +14,21 @@ Setiap folder berisi hasil pengerjaan tugas sesuai dengan modul yang dikerjakan.
 
 
 
-\## 📂 Daftar Modul
+## 📂 Daftar Modul
 
 
 
-\- \[Modul 1](./Modul%201)
+- [Modul 1](./Modul%201)
 
-\- \[Modul 2](./Modul%202)
+- [Modul 2](./Modul%202)
 
-\- \[Modul 3](./Modul%203)
+- [Modul 3](./Modul%203)
 
-\- \[Modul 4](https://github.com/Vidimldyh/Portofolio-Pemrograman-Web-202312009/tree/tugas/modul-4/Modul%204)
+- [Modul 4](https://github.com/Vidimldyh/Portofolio-Pemrograman-Web-202312009/tree/tugas/modul-4/Modul%204)
 
-\- \[Modul 5](https://github.com/Vidimldyh/Portofolio-Pemrograman-Web-202312009/tree/tugas/modul-5/Modul%205)
+- [Modul 5](https://github.com/Vidimldyh/Portofolio-Pemrograman-Web-202312009/tree/tugas/modul-5/Modul%205)
 
-\- \[Modul 6](https://github.com/Vidimldyh/Portofolio-Pemrograman-Web-202312009/tree/tugas/modul-6/Modul%206)
+- [Modul 6](https://github.com/Vidimldyh/Portofolio-Pemrograman-Web-202312009/tree/tugas/modul-6/Modul%206)
 
 
 
@@ -42,17 +42,17 @@ Setiap folder berisi hasil pengerjaan tugas sesuai dengan modul yang dikerjakan.
 
 
 
-\## 🛠 Teknologi yang Digunakan
+## 🛠 Teknologi yang Digunakan
 
 
 
-\- HTML
+- HTML
 
-\- CSS
+- CSS
 
-\- JavaScript (Modul 4 ke atas)
+- JavaScript (Modul 4 ke atas)
 
-\- Git \& GitHub
+- Git & GitHub
 
 
 
@@ -60,19 +60,19 @@ Setiap folder berisi hasil pengerjaan tugas sesuai dengan modul yang dikerjakan.
 
 
 
-\## 👨‍🎓 Identitas Mahasiswa
+## 👨‍🎓 Identitas Mahasiswa
 
 
 
-\- \*\*Nama\*\*: Siti Vidi Maulidiyah Sari Anas
+- **Nama**: Siti Vidi Maulidiyah Sari Anas
 
-\- \*\*NIM\*\* : 202312009  
+- **NIM** : 202312009  
 
-\- \*\*Kelas\*\*: Teknik Informatika - Pagi  
+- **Kelas**: Teknik Informatika - Pagi  
 
-\- \*\*Mata Kuliah\*\*: Pemrograman Web  
+- **Mata Kuliah**: Pemrograman Web  
 
-\- \*\*Dosen Pengampu\*\*: 
+- **Dosen Pengampu**: 
 
 
 
