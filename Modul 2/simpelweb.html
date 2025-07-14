@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Praktikum CSS</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      background-color: #add8e6;
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    #judul {
+      color: white;
+      font-size: 40px;
+      text-align: center;
+    }
+
+    p {
+      color: black;
+      padding: 10px;
+      border-radius: 10px;
+    }
+
+    .vidi {
+      background-color: #d3d3d3;
+      border-radius: 10px;
+    }
+
+    .box-container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+      max-width: 800px;
+      margin: 30px auto;
+      padding: 10px;
+    }
+
+    .box-container div {
+      border: 2px solid black;
+      padding: 10px;
+      height: 150px;
+      border-radius: 10px;
+    }
+
+    .box1 {
+      background-color: #ff9999;
+    }
+
+    .box2 {
+      background-color: #99ff99;
+    }
+
+    .box3 {
+      background-color: #9999ff;
+    }
+
+    @media screen and (max-width: 768px) {
+      .box-container {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    @media screen and (max-width: 480px) {
+      .box-container {
+        grid-template-columns: 1fr;
+      }
+
+      #judul {
+        font-size: 28px;
+      }
+
+      .box-container div {
+        height: 120px;
+      }
+
+      p {
+        padding: 5px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1 id="judul">Praktikum CSS</h1>
+  <p class="vidi">Nama saya adalah Vidi</p>
+
+  <div class="box-container">
+    <div class="box1">Box 1</div>
+    <div class="box2">Box 2</div>
+    <div class="box3">Box 3</div>
+  </div>
+
+</body>
+
+</html>

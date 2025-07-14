@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Formulir Pendaftaran Mahasiswa Baru</title>
+</head>
+<body style="background-color: #e6f0fa; margin: 20px; font-family: 'serif'; border-radius: 50px; box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);">
+
+  <div style="text-align: center;">
+    <img src="Stitek logo.png" alt="Logo Kampus" width="300">
+  </div>
+
+  <h1 style="color: #1f60a0; text-align: center;">Formulir Pendaftaran Mahasiswa Baru</h1>
+
+  <form action="/submit" method="post">
+
+    <!-- Data Pribadi -->
+    <fieldset style="margin-bottom: 20px; padding: 20px; border: 2px solid #ccc; border-radius: 8px; background-color: #ffffff;">
+      <legend style="font-weight: bold; color: #29527c; padding: 0 10px;">Data Pribadi</legend>
+
+      <label for="nama" style="display: block; margin-top: 10px; font-weight: 500;">Nama Lengkap:</label> 
+      <input type="text" id="nama" name="nama" placeholder="Contoh: Vidi Maulidiyah" required style="width: 100%; padding: 8px; margin-top: 5px; border-radius: 4px; border: 1px solid #999; box-sizing: border-box;">
+
+      <label for="email" style="display: block; margin-top: 10px; font-weight: 500;">Email:</label>
+      <input type="email" id="email" name="email" placeholder="Contoh: email@example.com" required style="width: 100%; padding: 8px; margin-top: 5px; border-radius: 4px; border: 1px solid #999; box-sizing: border-box;">
+
+      <label style="display: block; margin-top: 10px; font-weight: 500;">Jenis Kelamin:</label>
+      <input type="radio" id="pria" name="jenis_kelamin" value="Pria" required style="margin-right: 5px;">
+      <label for="pria" style="display: inline;">Pria</label>
+      <input type="radio" id="wanita" name="jenis_kelamin" value="Wanita" required style="margin-right: 5px;">
+      <label for="wanita" style="display: inline;">Wanita</label>
+    </fieldset>
+
+    <!-- Hobi -->
+    <fieldset style="margin-bottom: 20px; padding: 20px; border: 2px solid #ccc; border-radius: 8px; background-color: #ffffff;">
+      <legend style="font-weight: bold; color: #29527c; padding: 0 10px;">Hobi</legend>
+      <label><input type="checkbox" id="membaca" name="hobi[]" value="Membaca" style="margin-right: 5px;">Membaca</label>
+      <label><input type="checkbox" id="olahraga" name="hobi[]" value="Olahraga" style="margin-right: 5px;">Olahraga</label>
+      <label><input type="checkbox" id="musik" name="hobi[]" value="Musik" style="margin-right: 5px;">Musik</label>
+    </fieldset>
+
+    <!-- Jurusan -->
+    <fieldset style="margin-bottom: 20px; padding: 20px; border: 2px solid #ccc; border-radius: 8px; background-color: #ffffff;">
+      <legend style="font-weight: bold; color: #29527c; padding: 0 10px;">Jurusan</legend>
+
+      <label for="jurusan" style="display: block; margin-top: 10px; font-weight: 500;">Pilih Jurusan:</label>
+      <select id="jurusan" name="jurusan" required style="width: 100%; padding: 8px; margin-top: 5px; border-radius: 4px; border: 1px solid #999; box-sizing: border-box;">
+        <option value="">--Pilih Jurusan--</option>
+        <option value="Teknik Informatika">Teknik Informatika</option>
+        <option value="Teknik Elektro">Teknik Elektro</option>
+        <option value="Bisnis Digital">Bisnis Digital</option>
+        <option value="Sistem Informasi">Sistem Informasi</option>
+      </select>
+    </fieldset>
+
+    <!-- Alamat -->
+    <fieldset style="margin-bottom: 20px; padding: 20px; border: 2px solid #ccc; border-radius: 8px; background-color: #ffffff;">
+      <legend style="font-weight: bold; color: #29527c; padding: 0 10px;">Alamat</legend>
+      <label for="alamat" style="display: block; margin-top: 10px; font-weight: 500;">Alamat Lengkap :</label>
+      <textarea id="alamat" name="alamat" rows="4" placeholder="Contoh: Jl. Sultan Hasanuddin No. 1, Bontang" style="width: 100%; padding: 8px; margin-top: 5px; border-radius: 4px; border: 1px solid #999; box-sizing: border-box; resize: vertical;"></textarea>
+    </fieldset>
+
+    <input type="submit" value="Kirim" style="background-color: #003366; color: white; border: none; padding: 12px 25px; border-radius: 5px; cursor: pointer; font-size: 16px; margin-top: 10px;">
+
+  </form>
+
+  <div style="text-align: center; margin-top: 30px;">
+    <p>Untuk informasi lebih lanjut, kunjungi 
+      <a href="http://stitek.ac.id/" target="_blank" style="color: #003366; text-decoration: none;" >halaman resmi kampus</a>.
+    </p>
+  </div>
+
+</body>
+</html>
