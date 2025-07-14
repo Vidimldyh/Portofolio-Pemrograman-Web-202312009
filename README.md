@@ -24,11 +24,11 @@ Setiap folder berisi hasil pengerjaan tugas sesuai dengan modul yang dikerjakan.
 
 - [Modul 3](./Modul%203)
 
-- [Modul 4](https://github.com/Vidimldyh/Portofolio-Pemrograman-Web-202312009/tree/tugas/modul-4/Modul%204)
+- [Modul 4](https://github.com/Vidimldyh/Portofolio-Pemrograman-Web-202312009/tree/tugas/modul-4-javascript/Modul%204)
 
-- [Modul 5](https://github.com/Vidimldyh/Portofolio-Pemrograman-Web-202312009/tree/tugas/modul-5/Modul%205)
+- [Modul 5](https://github.com/Vidimldyh/Portofolio-Pemrograman-Web-202312009/tree/tugas/modul-5-php/Modul%205)
 
-- [Modul 6](https://github.com/Vidimldyh/Portofolio-Pemrograman-Web-202312009/tree/tugas/modul-6/Modul%206)
+- [Modul 6](https://github.com/Vidimldyh/Portofolio-Pemrograman-Web-202312009/tree/tugas/modul-6-php-mysql/Modul%206)
 
 
 
