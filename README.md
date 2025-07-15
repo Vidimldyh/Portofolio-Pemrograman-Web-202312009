@@ -17,8 +17,8 @@ Setiap modul dikerjakan secara terpisah menggunakan sistem *branch*, dengan stru
   - [🗂 Setup Modul 4](#-setup-modul-4)
   - [🗂 Setup Modul 5](#-setup-modul-5)
   - [🗂 Setup Modul 6](#-setup-modul-6)
-- [🎬 Video Presentasi](#🎬-video-presentasi)
-- [👨‍💻 Oleh](#👨‍💻-oleh)
+- [🎬 Video Presentasi](#-video-presentasi)
+- [👨‍💻 Oleh](#-oleh)
 
 ---
 
