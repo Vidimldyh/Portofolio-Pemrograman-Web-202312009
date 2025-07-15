@@ -8,12 +8,12 @@ Setiap modul dikerjakan secara terpisah menggunakan sistem *branch*, dengan stru
 
 ## 📑 Daftar Isi
 
-- [📂 Daftar Modul](#📂-daftar-modul)
-- [🧱 Struktur Folder & Branch](#🧱-struktur-folder--branch)
-- [✅ Prasyarat](#✅-prasyarat)
+- [📂 Daftar Modul](#-daftar-modul)
+- [🧱 Struktur Folder & Branch](#-struktur-folder--branch)
+- [✅ Prasyarat](#-prasyarat)
 - [⚙ Setup Proyek](#⚙-setup-proyek)
-  - [📂 Clone Repository](#📂-clone-repository)
-  - [📁 Setup Modul 1–3](#📁-setup-modul-13)
+  - [📂 Clone Repository](#-clone-repository)
+  - [📁 Setup Modul 1–3](#-setup-modul-13)
   - [🗂 Setup Modul 4](#-setup-modul-4)
   - [🗂 Setup Modul 5](#-setup-modul-5)
   - [🗂 Setup Modul 6](#-setup-modul-6)
