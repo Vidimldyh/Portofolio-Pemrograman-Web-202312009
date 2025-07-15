@@ -8,7 +8,7 @@ Setiap modul dikerjakan secara terpisah menggunakan sistem *branch*, dengan stru
 
 ## 📑 Daftar Isi
 
-- [📂 Daftar Modul] (#📂-daftar-modul)
+- [📂 Daftar Modul](#📂-daftar-modul)
 - [🧱 Struktur Folder & Branch](#🧱-struktur-folder--branch)
 - [✅ Prasyarat](#✅-prasyarat)
 - [⚙ Setup Proyek](#⚙-setup-proyek)
