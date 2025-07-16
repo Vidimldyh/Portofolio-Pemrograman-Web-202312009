@@ -42,7 +42,7 @@ Setiap modul dikerjakan secara terpisah menggunakan sistem *branch*, dengan stru
 
 ### 📁 Struktur Folder
 
-bash
+```bash
 Portofolio-Pemrograman-Web-202312013/
 ├── Modul 1/
 ├── Modul 2/
@@ -50,15 +50,17 @@ Portofolio-Pemrograman-Web-202312013/
 ├── Modul 4/
 ├── Modul 5/
 └── Modul 6/
+```
 
 ### 🌿 Struktur Branch
 
-bash
+```bash
 main
 ├── tugas/modul-1-3
 ├── tugas/modul-4
 ├── tugas/modul-5
 └── tugas/modul-6
+```
 
 
 ---
